@@ -117,8 +117,4 @@
     <string name="hotel_ibis_phone">+82-2-6272-1101</string>
     <string name="phone">phone</string>
     <string name="hours">hours</string>
-
-
-    <!--&lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;
-    <string name="hello_blank_fragment">Hello blank fragment</string>-->
 </resources>
