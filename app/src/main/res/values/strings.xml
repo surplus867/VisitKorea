@@ -67,7 +67,7 @@
     <string name="shop_market_description">Namdaeun Market is the largest traditonal market in Korea
      with shops selling various goods.</string>
     <string name="shop_market_address">21, Namdaemunsijang 4-gil, Jung-gu, Seoul</string>
-    <string name="shop_market_hours">Mon-Fri 23:00-17:00 (the next day) Closed Sundays</string>
+    <string name="shop_market_hours">Mon-Sat 23:00-17:00 (the next day) Closed Sundays</string>
     <string name="shop_market_phone">+82-2-753-2805</string>
     <!-- Item for shopping Store(Lotte Department Store)-->
     <string name="shop_lotte_name">Lotte Department Store</string>
