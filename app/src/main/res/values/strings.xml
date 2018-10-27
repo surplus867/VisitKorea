@@ -13,7 +13,7 @@
     <string name="place_world_description">Lotte World is the perfect spot for entertainment
      and sightseeing for Koreans and international tourists alike."</string>
     <string name="place_world_address">240 Olympic-ro,Jamsil-dong,Seoul</string>
-    <string name="place_world_hours">Mon-Sat 9:30-2300. Sundays closed.</string>
+    <string name="place_world_hours">Mon-Sat 09:30-2300(Sundays closed)</string>
     <string name="place_world_phone">+82-2411-2000</string>
     <!-- Item for places (Bukchon Hanok Village)-->
     <string name="place_village_name">Bukchon Hanok Village</string>
@@ -81,7 +81,7 @@
     <string name="shop_itaweon_description">Itaweon Street is the most exotic place in Seoul to
     spend a day of shopping,dining,and hanging out.</string>
     <string name="shop_itaweon_address">Itaweon-dong,Yongsan-gu, Seoul</string>
-    <string name="shop_itaweon_hours">09:00-21:00(varies by shop)</string>
+    <string name="shop_itaweon_hours">Mon-Sun 09:00-21:00(varies by shop)</string>
     <string name="shop_itaweon_phone">+82-2-797-7319</string>
     <!-- Item for shopping Store(Hyundai Department Store)-->
     <string name="shop_hyundai_name">Hyundai Department Store</string>
