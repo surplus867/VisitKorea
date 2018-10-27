@@ -14,13 +14,22 @@
         <item name="tabSelectedTextColor">@color/colorAccent</item>
     </style>
 
+    <style name="CategoriesText">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textSize">15sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:drawablePadding">8dp</item>
+    <item name="android:fontFamily">sans-serif</item>
+    </style>
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
 
     <style name="tabsText" parent="TextAppearance.Design.Tab">
-        <item name="android:textColor">#FFFF00</item>
+        <item name="android:textColor">#A8A19E</item>
     </style>
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />

@@ -9,8 +9,8 @@ public class Item {
     private int imageResourceId;
 
 
-    public Item( String name, String description, String address, String phone,
-                String hours, int imageResourceId) {
+    public Item( String name, String description, String address, String hours,
+                 String phone, int imageResourceId) {
 
         this.name = name;
         this.description = description;
@@ -18,7 +18,6 @@ public class Item {
         this.hours = hours;
         this.phone = phone;
         this.imageResourceId = imageResourceId;
-
     }
 
     public String getName() {
@@ -33,8 +32,16 @@ public class Item {
         return description;
     }
 
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
     public String getAddress() {
         return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 
     public String getHours() {
@@ -45,25 +52,12 @@ public class Item {
         return phone;
     }
 
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
+
     public int getImageResourceId() {
         return imageResourceId;
     }
 
-    @Override
-    public String toString() {
-        String output = getName() + "\n" +
-                getDescription() + "\n" +
-                getAddress() + "\n" +
-                getHours() + "\n" +
-                getPhone() + "\n" +
-                getImageResourceId()
-                ;
-
-        return output;
     }
-}
-
-
-
-
-

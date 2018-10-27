@@ -7,14 +7,13 @@
     <string name="title">Title</string>
     <string name="description">Description</string>
     <string name="address">Address</string>
-    <string name="hours">Hours</string>
-    <string name="phone">Phone</string>
+
     <!-- Item for places (Lotte World)-->
     <string name="place_world_name">Lotte World</string>
     <string name="place_world_description">Lotte World is the perfect spot for entertainment
      and sightseeing for Koreans and international tourists alike."</string>
     <string name="place_world_address">240 Olympic-ro,Jamsil-dong,Seoul</string>
-    <string name="place_world_hours">9:30-2300. Sundays closed.</string>
+    <string name="place_world_hours">Mon-Sat 9:30-2300. Sundays closed.</string>
     <string name="place_world_phone">+82-2411-2000</string>
     <!-- Item for places (Bukchon Hanok Village)-->
     <string name="place_village_name">Bukchon Hanok Village</string>
@@ -22,7 +21,7 @@
      Changdeokgung Palace and Jongmyo Shrine, Bukchon Hanok Village is home to hundreds of
      traditional houses, called Hanok.</string>
     <string name="place_village_address">37, Gyedong-gil, Jongno-gu,Seoul</string>
-    <string name="place_village_hours">0900-1800</string>
+    <string name="place_village_hours">Mon-Sun 0900-1800</string>
     <string name="place_village_phone">+82-22148-4160</string>
     <!-- Item for places (Cheonggyecheon Stream and Cheonggye Plaza)-->
     <string name="place_plaza_name"> Cheonggyecheon Stream And Cheonggye Plaza</string>
@@ -43,13 +42,13 @@
     <string name="food_gogung_name">Gogung-Myeongdong Branch</string>
     <string name="food_gogung_description">Jeongju traditional bibimbap(Jeongju-style bibimbap)</string>
     <string name="food_gogung_address">37, Myeongdong 8ga-gil, Jung-gu, Seoul</string>
-    <string name="food_gogung_hours">10:00-23:00</string>
+    <string name="food_gogung_hours">Mon-Sun 10:00-23:00</string>
     <string name="food_gogung_phone">+82 2-776-3211</string>
     <!-- Item for restaurant(SamKim)-->
     <string name="food_kim_name">SamKim</string>
     <string name="food_kim_description">Samgyeopsal(grilled pork belly)</string>
     <string name="food_kim_address">35, Myeongdong 8ga-gil,Jung-gu, Seoul</string>
-    <string name="food_kim_hours">11:00-23:00</string>
+    <string name="food_kim_hours">Mon-Sun 11:00-23:00</string>
     <string name="food_kim_phone">+82-2-771-5025</string>
     <!-- Item for restaurant(The Jincook-Hongdae Branch)-->
     <string name="food_jin_name">The Jincook-Dongdaemun Station</string>
@@ -68,14 +67,14 @@
     <string name="shop_market_description">Namdaeun Market is the largest traditonal market in Korea
      with shops selling various goods.</string>
     <string name="shop_market_address">21, Namdaemunsijang 4-gil, Jung-gu, Seoul</string>
-    <string name="shop_market_hours">23:00-17:00 (the next day) Closed Sundays</string>
+    <string name="shop_market_hours">Mon-Fri 23:00-17:00 (the next day) Closed Sundays</string>
     <string name="shop_market_phone">+82-2-753-2805</string>
     <!-- Item for shopping Store(Lotte Department Store)-->
     <string name="shop_lotte_name">Lotte Department Store</string>
     <string name="shop_lotte_description">The main branch of Lotte Department Store is the leader
      in the Korean shopping culture and industry.</string>
     <string name="shop_lotte_address">81, Namdaemun-ro, Jung-gu, Seoul</string>
-    <string name="shop_lotte_hours">10:30-20:30</string>
+    <string name="shop_lotte_hours">Mon-Sun 10:00–2030</string>
     <string name="shop_lotte_phone">+82 2-771-2500</string>
     <!-- Item for shopping Store(Itaweon Shops Street)-->
     <string name="shop_itaweon_name">Itaweon Shopping Street</string>
@@ -89,7 +88,7 @@
     <string name="shop_hyundai_description">located in the COEX, one of the largest business and
     financial district in Korea.</string>
     <string name="shop_hyundai_address">517, Teheran-ro, Gangnam-gu Seoul</string>
-    <string name="shop_hyundai_hours">10:30-20:00</string>
+    <string name="shop_hyundai_hours">Mon-Sun 10:30-20:00</string>
     <string name="shop_hyundai_phone">+82-2-552-2233></string>
     <!-- Item for accommodations(Hotelette Seoul Station)-->
     <string name="hotel_hotelette_name">Hotelette Seoul Station</string>
@@ -116,7 +115,8 @@
     <string name="hotel_ibis_address">78, Namdaemunro, Jung-gu, Seoul</string>
     <string name="hotel_ibis_hours">Open 24 hours</string>
     <string name="hotel_ibis_phone">+82-2-6272-1101</string>
-
+    <string name="phone">phone</string>
+    <string name="hours">hours</string>
 
 
     <!--&lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;
