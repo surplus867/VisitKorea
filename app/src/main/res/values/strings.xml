@@ -7,7 +7,8 @@
     <string name="title">Title</string>
     <string name="description">Description</string>
     <string name="address">Address</string>
-
+    <string name="phone">phone</string>
+    <string name="hours">hours</string>
     <!-- Item for places (Lotte World)-->
     <string name="place_world_name">Lotte World</string>
     <string name="place_world_description">Lotte World is the perfect spot for entertainment
@@ -115,6 +116,4 @@
     <string name="hotel_ibis_address">78, Namdaemunro, Jung-gu, Seoul</string>
     <string name="hotel_ibis_hours">Open 24 hours</string>
     <string name="hotel_ibis_phone">+82-2-6272-1101</string>
-    <string name="phone">phone</string>
-    <string name="hours">hours</string>
 </resources>

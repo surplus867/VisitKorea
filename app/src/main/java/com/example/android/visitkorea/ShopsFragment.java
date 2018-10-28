@@ -64,7 +64,6 @@ public class ShopsFragment extends Fragment {
 
         listView.setAdapter(adapter);
 
-
         return rootView;
     }
 
